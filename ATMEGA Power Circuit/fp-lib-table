@@ -1,0 +1,8 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "TPS2557DRBR")(type "KiCad")(uri "${KIPRJMOD}/imported/TPS2557DRBR")(options "")(descr ""))
+  (lib (name "BSS138")(type "KiCad")(uri "${KIPRJMOD}/imported/BSS138")(options "")(descr ""))
+  (lib (name "Weurth_Terminal_01x02_691210910002")(type "KiCad")(uri "${KIPRJMOD}/imported/Weurth_Terminal_01x02_691210910002")(options "")(descr ""))
+  (lib (name "SD0603S040S0R2")(type "KiCad")(uri "${KIPRJMOD}/imported/SD0603S040S0R2")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/imported/DS3231SN/footprints.pretty")(options "")(descr ""))
+)

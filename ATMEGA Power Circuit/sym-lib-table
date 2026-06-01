@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TPS2557DRBR")(type "KiCad")(uri "${KIPRJMOD}/imported/TPS2557DRBR/TPS2557DRBR.kicad_sym")(options "")(descr ""))
+  (lib (name "BSS138")(type "KiCad")(uri "${KIPRJMOD}/imported/BSS138/BSS138.kicad_sym")(options "")(descr ""))
+  (lib (name "DS3231SN")(type "KiCad")(uri "${KIPRJMOD}/imported/DS3231SN/DS3231SN.kicad_sym")(options "")(descr ""))
+)
